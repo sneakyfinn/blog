@@ -9,7 +9,7 @@ name: SneakyFinn
 description: Notes on Investigation, OSINT, PenTesting, and Privacy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/sneakyfinn/blog/blob/master/images/avatar.jpeg
+avatar: https://raw.githubusercontent.com/sneakyfinn/blog/master/images/avatar.jpeg
 
 #
 # Flags below are optional
@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: rss
+  rss: 
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
