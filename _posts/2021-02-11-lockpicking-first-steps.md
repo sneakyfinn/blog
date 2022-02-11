@@ -4,6 +4,8 @@ title: First steps in lockpicking
 tags: lockpicking
 ---
 
+How I learned patience through breaking picks and locks.
+
 # Story time
 
 My interest in lockpicking came at an early age. Like many young deviants I was fascinated with the idea of outwitting a security system designed by someone more experienced than myself. And it would let me into places that I wasn't supposed to be. So like many others, I ordered my first kit from a catalog (remember those?), something akin to SouthOrd set:
