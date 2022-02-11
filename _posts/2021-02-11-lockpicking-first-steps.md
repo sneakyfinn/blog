@@ -29,7 +29,6 @@ As you can see from above, my mistake was always looking for a shortcut. It was 
 So, what if you find yourself in a similar position of wanting to learn lockpicking and are wondering where to start? Here's my advice:
 
   1. Start small. Pick a set with just the essential, but well made, picks, such as _TOOOL Necessary Nine Pickset_ available [here](https://toool.us/equipment.html)
-  <img src="https://toool.us/images/equipment-necessarynine_.jpg" height="150px" title="TOOOL Necessary Nine Pickset"/>
   2. Get a good book on the subject **before** you dive into 1000 videos online. I am partial to [Deviant Ollam's work] (https://deviating.net/lockpicking/equipment.html) - *Practical Lock Picking* and *Keys to the Kingdom*.
   3. Either buy or make a set of progressive locks (e.g. 1-5 pins), and approach them like you would any challenge: one at a time, perfecting each step. It may seem trivial to pick a one or two pins lock but try doing it under different conditions and you will find yourself building that all important muscle memory.
   4. Resist the urge to buy further equipment. If you have a few hooks, a couple of rakes, a diamond, and at least two types of tensioners (top of keyway -  **TOK** and bottom of keyway - **BOK**) then you are set. Save your money and buy locks instead. 
